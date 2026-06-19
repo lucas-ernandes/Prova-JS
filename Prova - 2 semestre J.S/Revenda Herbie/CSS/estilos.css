@@ -1,0 +1,9 @@
+h1 { border-bottom-style: inset;}
+
+img.normal {
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+.aDireita{text-align: right;}
